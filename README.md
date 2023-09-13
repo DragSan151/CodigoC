@@ -1,1 +1,1 @@
-# CodigoC
+Contiene Trabajo obligatorio de C++
